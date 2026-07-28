@@ -205,33 +205,17 @@ Page 1
 
 ## Gradio Interface
 
-> Replace with your screenshot
 
-```
-images/gradio_ui.png
-```
 
----
+![Gradio Interface](images/gradio_ui.png)
 
 ## Loan Amount Example
 
-> Replace with your screenshot
-
-```
-images/loan_amount_demo.png
-```
-
----
+![Loan Amount](images/loan_amount_demo.png)
 
 ## Interest Rate Example
 
-> Replace with your screenshot
-
-```
-images/interest_rate_demo.png
-```
-
----
+![interest Rate](images/interest_rate_demo.png)
 
 # 📈 Current Capabilities
 
